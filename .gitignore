@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+.DS_Store
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
